@@ -1,0 +1,17 @@
+@font-face {
+    font-family: NotoSans-Bold;
+    src: url(./fonts/NotoSans-Bold.ttf);
+}
+*{
+    font-family: 'NotoSans-Bold', 'monospace';
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: linear-gradient(to right, #232526, #414345);
+    text-align: center;
+}
