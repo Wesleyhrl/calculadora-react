@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora-react/static/css/main.3d394288.css",
+    "main.js": "/calculadora-react/static/js/main.4034fb54.js",
+    "static/js/787.6fd5ced7.chunk.js": "/calculadora-react/static/js/787.6fd5ced7.chunk.js",
+    "static/media/NotoSans-Bold.ttf": "/calculadora-react/static/media/NotoSans-Bold.23e70cfbbe0783c66804.ttf",
+    "index.html": "/calculadora-react/index.html",
+    "main.3d394288.css.map": "/calculadora-react/static/css/main.3d394288.css.map",
+    "main.4034fb54.js.map": "/calculadora-react/static/js/main.4034fb54.js.map",
+    "787.6fd5ced7.chunk.js.map": "/calculadora-react/static/js/787.6fd5ced7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d394288.css",
+    "static/js/main.4034fb54.js"
+  ]
+}
